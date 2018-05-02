@@ -1,0 +1,57 @@
+body {
+  background: black;
+}
+
+.top {
+  background: #181c1f;
+  width: auto;
+  height: 60px;
+  color: white;
+  font-size: 30px;
+  padding-left: 50px;
+  line-height: 60px;
+}
+
+.search {
+  color: white;
+  width: 700px;
+  height: 400px;
+  background: #2c2f36;
+  margin: auto;
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  margin-bottom: 50px;
+}
+
+#searchForm {
+  display: flex;
+  flex-direction: column;
+
+}
+
+#searchText {
+  padding-left: 6px;
+  width: 400px;
+  height: 30px
+}
+
+#movies {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  border-color: white;
+}
+
+.movie-section {
+  display: flex;
+  flex-direction: column;
+
+}
+
+h5 {
+  color: white;
+  font-size: 35px;
+  border-color: white;
+}
