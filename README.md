@@ -1,0 +1,1 @@
+Technologies: Webpack, Axios, jQuery
