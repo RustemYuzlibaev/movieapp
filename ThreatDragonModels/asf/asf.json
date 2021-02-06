@@ -5,13 +5,18 @@
     "title": "asf"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "asdf"
+      }
+    ],
     "diagrams": [
       {
         "title": "asdfasdfa",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
       }
-    ]
+    ],
+    "reviewer": "sdf"
   }
 }
